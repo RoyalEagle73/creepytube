@@ -51,3 +51,5 @@ docs/_build/
 
 # Produced Video
 *.avi
+auth.json
+config.cfg
