@@ -2,3 +2,8 @@ configparser==5.0.2
 requests
 opencv-python==4.5.3.56
 numpy==1.21.1
+google-api-python-client
+google-auth-oauthlib
+selenium
+chromedriver-py
+faker

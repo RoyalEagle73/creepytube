@@ -27,6 +27,7 @@ class VideoBuilder():
 
     def create_video(self):
         images = self.__collect_images()
+        print('Images Collected')
         largest_height = max([image.shape[0] for image in images])
         largest_width = max([image.shape[0] for image in images])
         size = (largest_width,largest_height)
